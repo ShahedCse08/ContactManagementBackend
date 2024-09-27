@@ -1,0 +1,15 @@
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\bin\Debug\net6.0\Domain.dll
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Datavanced\Datavances.Assessment.Solution\Persistence\obj\Debug\net6.0\ref\Persistence.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdkbjmW3E80ZMl6TA/vZgD+ck/3qTD0eRUdEWTCDUkanKXPBKHAUL8EC8LjTvhkfqYHSfmld4sVkHB6+3wO6WQ==",
+  "success": true,
+  "projectFilePath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DINAR\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\DINAR\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

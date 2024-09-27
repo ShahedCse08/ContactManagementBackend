@@ -1,0 +1,15 @@
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\bin\Debug\net6.0\Services.Abstractions.deps.json
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\bin\Debug\net6.0\Services.Abstractions.dll
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\bin\Debug\net6.0\Services.Abstractions.pdb
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\bin\Debug\net6.0\Contracts.dll
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\bin\Debug\net6.0\Contracts.pdb
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.csproj.AssemblyReference.cache
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.AssemblyInfoInputs.cache
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.AssemblyInfo.cs
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.csproj.CopyComplete
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.dll
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\refint\Services.Abstractions.dll
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\Services.Abstractions.pdb
+E:\Datavanced\Datavances.Assessment.Solution\Services.Abstractions\obj\Debug\net6.0\ref\Services.Abstractions.dll

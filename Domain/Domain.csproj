@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Domain services\**" />
+    <Compile Remove="Repository interfaces\**" />
+    <EmbeddedResource Remove="Domain services\**" />
+    <EmbeddedResource Remove="Repository interfaces\**" />
+    <None Remove="Domain services\**" />
+    <None Remove="Repository interfaces\**" />
+  </ItemGroup>
+
+</Project>
