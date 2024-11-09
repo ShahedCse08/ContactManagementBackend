@@ -1,0 +1,692 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\ContactManagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D1B0B6-C322-4233-889F-B75E311E599B}|Services\\Services.csproj|d:\\project\\contactmanagementbackend\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D1B0B6-C322-4233-889F-B75E311E599B}|Services\\Services.csproj|solutionrelative:services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|d:\\project\\contactmanagementbackend\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C1C997-85CE-4BA4-89F6-C629D3FD5B97}|Presentation\\Presentation.csproj|d:\\project\\contactmanagementbackend\\presentation\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C1C997-85CE-4BA4-89F6-C629D3FD5B97}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|d:\\project\\contactmanagementbackend\\persistence\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|d:\\project\\contactmanagementbackend\\persistence\\repositorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|d:\\project\\contactmanagementbackend\\persistence\\migrations\\20240927095414_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\20240927095414_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|d:\\project\\contactmanagementbackend\\persistence\\migrations\\repositorydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\repositorydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|d:\\project\\contactmanagementbackend\\datavances.assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|solutionrelative:datavances.assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C1C997-85CE-4BA4-89F6-C629D3FD5B97}|Presentation\\Presentation.csproj|d:\\project\\contactmanagementbackend\\presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C1C997-85CE-4BA4-89F6-C629D3FD5B97}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C1C997-85CE-4BA4-89F6-C629D3FD5B97}|Presentation\\Presentation.csproj|d:\\project\\contactmanagementbackend\\presentation\\controllers\\contactgroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C1C997-85CE-4BA4-89F6-C629D3FD5B97}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\contactgroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|d:\\project\\contactmanagementbackend\\datavances.assessment\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|solutionrelative:datavances.assessment\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|d:\\project\\contactmanagementbackend\\contracts\\contactforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|solutionrelative:contracts\\contactforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|d:\\project\\contactmanagementbackend\\persistence\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\repository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D1B0B6-C322-4233-889F-B75E311E599B}|Services\\Services.csproj|d:\\project\\contactmanagementbackend\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D1B0B6-C322-4233-889F-B75E311E599B}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1485CD5-3F83-467E-9982-E786F9E87B64}|Services.Abstractions\\Services.Abstractions.csproj|d:\\project\\contactmanagementbackend\\services.abstractions\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1485CD5-3F83-467E-9982-E786F9E87B64}|Services.Abstractions\\Services.Abstractions.csproj|solutionrelative:services.abstractions\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1485CD5-3F83-467E-9982-E786F9E87B64}|Services.Abstractions\\Services.Abstractions.csproj|d:\\project\\contactmanagementbackend\\services.abstractions\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1485CD5-3F83-467E-9982-E786F9E87B64}|Services.Abstractions\\Services.Abstractions.csproj|solutionrelative:services.abstractions\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|d:\\project\\contactmanagementbackend\\contracts\\contactforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|solutionrelative:contracts\\contactforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|d:\\project\\contactmanagementbackend\\datavances.assessment\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|solutionrelative:datavances.assessment\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|d:\\project\\contactmanagementbackend\\contracts\\contactgroupforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|solutionrelative:contracts\\contactgroupforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|d:\\project\\contactmanagementbackend\\contracts\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|solutionrelative:contracts\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\entities\\contactgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\contactgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D1B0B6-C322-4233-889F-B75E311E599B}|Services\\Services.csproj|d:\\project\\contactmanagementbackend\\services\\contactgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D1B0B6-C322-4233-889F-B75E311E599B}|Services\\Services.csproj|solutionrelative:services\\contactgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\exceptions\\contactdoesnotbelongtogroupexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\contactdoesnotbelongtogroupexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\exceptions\\contactnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\contactnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\exceptions\\contactgroupnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\contactgroupnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1485CD5-3F83-467E-9982-E786F9E87B64}|Services.Abstractions\\Services.Abstractions.csproj|d:\\project\\contactmanagementbackend\\services.abstractions\\icontactgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1485CD5-3F83-467E-9982-E786F9E87B64}|Services.Abstractions\\Services.Abstractions.csproj|solutionrelative:services.abstractions\\icontactgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|d:\\project\\contactmanagementbackend\\persistence\\repositories\\contactgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5807AD5-A192-41EF-8AE8-610B0ED9F4A6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\contactgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\repository\\icontactgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\icontactgrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|d:\\project\\contactmanagementbackend\\contracts\\contactgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEC1495-6728-4A21-8C06-766DD2B45E24}|Contracts\\Contracts.csproj|solutionrelative:contracts\\contactgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|d:\\project\\contactmanagementbackend\\datavances.assessment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|solutionrelative:datavances.assessment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|d:\\project\\contactmanagementbackend\\datavances.assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|solutionrelative:datavances.assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|d:\\project\\contactmanagementbackend\\datavances.assessment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|solutionrelative:datavances.assessment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C1C997-85CE-4BA4-89F6-C629D3FD5B97}|Presentation\\Presentation.csproj|d:\\project\\contactmanagementbackend\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D3C1C997-85CE-4BA4-89F6-C629D3FD5B97}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|d:\\project\\contactmanagementbackend\\datavances.assessment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|solutionrelative:datavances.assessment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|d:\\project\\contactmanagementbackend\\datavances.assessment\\datavanced.assessment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{107FE716-19C3-490B-B469-12F5B4A0300F}|Datavances.Assessment\\Datavanced.Assessment.csproj|solutionrelative:datavances.assessment\\datavanced.assessment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|d:\\project\\contactmanagementbackend\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{692B221D-78F8-43B4-9318-0D6B5D8CF1A6}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Persistence\\RepositoryDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\RepositoryDbContext.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Persistence\\RepositoryDbContext.cs",
+              "RelativeToolTip": "Persistence\\RepositoryDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Persistence\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ContactRepository.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Persistence\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Presentation\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ContactsController.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Presentation\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA5wEEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "Services\\ContactService.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Services\\ContactService.cs",
+              "RelativeToolTip": "Services\\ContactService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAMwFkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:48.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Datavances.Assessment\\WeatherForecast.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\WeatherForecast.cs",
+              "RelativeToolTip": "Datavances.Assessment\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactGroupsController.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Presentation\\Controllers\\ContactGroupsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ContactGroupsController.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Presentation\\Controllers\\ContactGroupsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ContactGroupsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Repository\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\IRepositoryManager.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Repository\\IRepositoryManager.cs",
+              "RelativeToolTip": "Domain\\Repository\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Program.cs",
+              "RelativeDocumentMoniker": "Datavances.Assessment\\Program.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Program.cs",
+              "RelativeToolTip": "Datavances.Assessment\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Persistence\\Migrations\\RepositoryDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Persistence\\Migrations\\RepositoryDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Persistence\\Migrations\\RepositoryDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Persistence\\Migrations\\RepositoryDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240927095414_initial.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Persistence\\Migrations\\20240927095414_initial.cs",
+              "RelativeDocumentMoniker": "Persistence\\Migrations\\20240927095414_initial.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Persistence\\Migrations\\20240927095414_initial.cs",
+              "RelativeToolTip": "Persistence\\Migrations\\20240927095414_initial.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Services.Abstractions\\IServiceManager.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\IServiceManager.cs",
+              "RelativeToolTip": "Services.Abstractions\\IServiceManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Presentation\\AssemblyReference.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "Presentation\\AssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Persistence\\Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\RepositoryManager.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Persistence\\Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\RepositoryManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactForUpdateDto.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactForUpdateDto.cs",
+              "RelativeDocumentMoniker": "Contracts\\ContactForUpdateDto.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactForUpdateDto.cs",
+              "RelativeToolTip": "Contracts\\ContactForUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\IContactService.cs",
+              "RelativeDocumentMoniker": "Services.Abstractions\\IContactService.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\IContactService.cs",
+              "RelativeToolTip": "Services.Abstractions\\IContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Repository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\IContactRepository.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Repository\\IContactRepository.cs",
+              "RelativeToolTip": "Domain\\Repository\\IContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactForCreationDto.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactForCreationDto.cs",
+              "RelativeDocumentMoniker": "Contracts\\ContactForCreationDto.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactForCreationDto.cs",
+              "RelativeToolTip": "Contracts\\ContactForCreationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Datavances.Assessment\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Datavances.Assessment\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContactGroupForCreationDto.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactGroupForCreationDto.cs",
+              "RelativeDocumentMoniker": "Contracts\\ContactGroupForCreationDto.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactGroupForCreationDto.cs",
+              "RelativeToolTip": "Contracts\\ContactGroupForCreationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContactGroup.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Entities\\ContactGroup.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ContactGroup.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Entities\\ContactGroup.cs",
+              "RelativeToolTip": "Domain\\Entities\\ContactGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Contact.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Entities\\Contact.cs",
+              "RelativeToolTip": "Domain\\Entities\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContactDto.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactDto.cs",
+              "RelativeDocumentMoniker": "Contracts\\ContactDto.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactDto.cs",
+              "RelativeToolTip": "Contracts\\ContactDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContactGroupService.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Services\\ContactGroupService.cs",
+              "RelativeDocumentMoniker": "Services\\ContactGroupService.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Services\\ContactGroupService.cs",
+              "RelativeToolTip": "Services\\ContactGroupService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwCEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContactNotFoundException.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\ContactNotFoundException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\ContactNotFoundException.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\ContactNotFoundException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\ContactNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContactDoesNotBelongToGroupException.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\ContactDoesNotBelongToGroupException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\ContactDoesNotBelongToGroupException.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\ContactDoesNotBelongToGroupException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\ContactDoesNotBelongToGroupException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ContactGroupNotFoundException.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\ContactGroupNotFoundException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\ContactGroupNotFoundException.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\ContactGroupNotFoundException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\ContactGroupNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IContactGroupService.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\IContactGroupService.cs",
+              "RelativeDocumentMoniker": "Services.Abstractions\\IContactGroupService.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\IContactGroupService.cs",
+              "RelativeToolTip": "Services.Abstractions\\IContactGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ContactGroupRepository.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Persistence\\Repositories\\ContactGroupRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ContactGroupRepository.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Persistence\\Repositories\\ContactGroupRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ContactGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IContactGroupRepository.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Repository\\IContactGroupRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\IContactGroupRepository.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Repository\\IContactGroupRepository.cs",
+              "RelativeToolTip": "Domain\\Repository\\IContactGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ContactGroupDto.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactGroupDto.cs",
+              "RelativeDocumentMoniker": "Contracts\\ContactGroupDto.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Contracts\\ContactGroupDto.cs",
+              "RelativeToolTip": "Contracts\\ContactGroupDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:47.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Datavances.Assessment\\appsettings.Development.json",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\appsettings.Development.json",
+              "RelativeToolTip": "Datavances.Assessment\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T14:44:47.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\appsettings.json",
+              "RelativeDocumentMoniker": "Datavances.Assessment\\appsettings.json",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\appsettings.json",
+              "RelativeToolTip": "Datavances.Assessment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T14:44:47.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Datavances.Assessment\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Datavances.Assessment\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T14:44:47.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T14:44:47.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Datavances.Assessment\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Datavances.Assessment\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:48.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Datavanced.Assessment",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Datavanced.Assessment.csproj",
+              "RelativeDocumentMoniker": "Datavances.Assessment\\Datavanced.Assessment.csproj",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Datavanced.Assessment.csproj",
+              "RelativeToolTip": "Datavances.Assessment\\Datavanced.Assessment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T14:44:48.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:44:48.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T14:44:48.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

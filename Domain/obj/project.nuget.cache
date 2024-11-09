@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YcA3kj/iuiGt7qhYCFFqT/8MIHMJUNvs5mk809CWKbC8Z56O8xLk/gR3kboSzFQukdukhdoU018xOqHreJXQmQ==",
+  "dgSpecHash": "RuZuGdeUqog=",
   "success": true,
-  "projectFilePath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

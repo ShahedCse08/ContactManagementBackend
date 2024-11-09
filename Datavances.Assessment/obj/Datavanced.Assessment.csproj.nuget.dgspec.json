@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Datavanced\\Datavances.Assessment.Solution\\Datavances.Assessment\\Datavanced.Assessment.csproj": {}
+    "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Datavanced.Assessment.csproj": {}
   },
   "projects": {
-    "E:\\Datavanced\\Datavances.Assessment.Solution\\Contracts\\Contracts.csproj": {
+    "D:\\Project\\ContactManagementBackend\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Datavanced\\Datavances.Assessment.Solution\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "D:\\Project\\ContactManagementBackend\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\DINAR\\.nuget\\packages\\",
-        "outputPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Contracts\\obj\\",
+        "projectPath": "D:\\Project\\ContactManagementBackend\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ContactManagementBackend\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DINAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,21 +65,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Datavanced\\Datavances.Assessment.Solution\\Datavances.Assessment\\Datavanced.Assessment.csproj": {
+    "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Datavanced.Assessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Datavanced\\Datavances.Assessment.Solution\\Datavances.Assessment\\Datavanced.Assessment.csproj",
+        "projectUniqueName": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Datavanced.Assessment.csproj",
         "projectName": "Datavanced.Assessment",
-        "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Datavances.Assessment\\Datavanced.Assessment.csproj",
-        "packagesPath": "C:\\Users\\DINAR\\.nuget\\packages\\",
-        "outputPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Datavances.Assessment\\obj\\",
+        "projectPath": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\Datavanced.Assessment.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ContactManagementBackend\\Datavances.Assessment\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DINAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,20 +91,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Datavanced\\Datavances.Assessment.Solution\\Persistence\\Persistence.csproj": {
-                "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Persistence\\Persistence.csproj"
+              "D:\\Project\\ContactManagementBackend\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Project\\ContactManagementBackend\\Persistence\\Persistence.csproj"
               },
-              "E:\\Datavanced\\Datavances.Assessment.Solution\\Presentation\\Presentation.csproj": {
-                "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Presentation\\Presentation.csproj"
+              "D:\\Project\\ContactManagementBackend\\Presentation\\Presentation.csproj": {
+                "projectPath": "D:\\Project\\ContactManagementBackend\\Presentation\\Presentation.csproj"
               },
-              "E:\\Datavanced\\Datavances.Assessment.Solution\\Services\\Services.csproj": {
-                "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services\\Services.csproj"
+              "D:\\Project\\ContactManagementBackend\\Services\\Services.csproj": {
+                "projectPath": "D:\\Project\\ContactManagementBackend\\Services\\Services.csproj"
               }
             }
           }
@@ -99,6 +114,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -143,21 +163,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Datavanced\\Datavances.Assessment.Solution\\Domain\\Domain.csproj": {
+    "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Datavanced\\Datavances.Assessment.Solution\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\DINAR\\.nuget\\packages\\",
-        "outputPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Domain\\obj\\",
+        "projectPath": "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ContactManagementBackend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DINAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,6 +189,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -177,6 +202,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -198,21 +228,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Datavanced\\Datavances.Assessment.Solution\\Persistence\\Persistence.csproj": {
+    "D:\\Project\\ContactManagementBackend\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Datavanced\\Datavances.Assessment.Solution\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\Project\\ContactManagementBackend\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\DINAR\\.nuget\\packages\\",
-        "outputPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Persistence\\obj\\",
+        "projectPath": "D:\\Project\\ContactManagementBackend\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ContactManagementBackend\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DINAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -220,14 +254,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Datavanced\\Datavances.Assessment.Solution\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Domain\\Domain.csproj"
+              "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -236,6 +271,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -267,21 +307,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Datavanced\\Datavances.Assessment.Solution\\Presentation\\Presentation.csproj": {
+    "D:\\Project\\ContactManagementBackend\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Datavanced\\Datavances.Assessment.Solution\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "D:\\Project\\ContactManagementBackend\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Presentation\\Presentation.csproj",
-        "packagesPath": "C:\\Users\\DINAR\\.nuget\\packages\\",
-        "outputPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Presentation\\obj\\",
+        "projectPath": "D:\\Project\\ContactManagementBackend\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ContactManagementBackend\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DINAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -289,14 +333,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Datavanced\\Datavances.Assessment.Solution\\Services.Abstractions\\Services.Abstractions.csproj": {
-                "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services.Abstractions\\Services.Abstractions.csproj"
+              "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\Services.Abstractions.csproj": {
+                "projectPath": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\Services.Abstractions.csproj"
               }
             }
           }
@@ -305,6 +350,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -332,21 +382,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Datavanced\\Datavances.Assessment.Solution\\Services.Abstractions\\Services.Abstractions.csproj": {
+    "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\Services.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services.Abstractions\\Services.Abstractions.csproj",
+        "projectUniqueName": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\Services.Abstractions.csproj",
         "projectName": "Services.Abstractions",
-        "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services.Abstractions\\Services.Abstractions.csproj",
-        "packagesPath": "C:\\Users\\DINAR\\.nuget\\packages\\",
-        "outputPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services.Abstractions\\obj\\",
+        "projectPath": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DINAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -354,14 +408,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Datavanced\\Datavances.Assessment.Solution\\Contracts\\Contracts.csproj": {
-                "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Contracts\\Contracts.csproj"
+              "D:\\Project\\ContactManagementBackend\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Project\\ContactManagementBackend\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -370,6 +425,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -391,21 +451,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Datavanced\\Datavances.Assessment.Solution\\Services\\Services.csproj": {
+    "D:\\Project\\ContactManagementBackend\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\Project\\ContactManagementBackend\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\DINAR\\.nuget\\packages\\",
-        "outputPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services\\obj\\",
+        "projectPath": "D:\\Project\\ContactManagementBackend\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ContactManagementBackend\\Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DINAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -413,17 +477,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Datavanced\\Datavances.Assessment.Solution\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Domain\\Domain.csproj"
+              "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Project\\ContactManagementBackend\\Domain\\Domain.csproj"
               },
-              "E:\\Datavanced\\Datavances.Assessment.Solution\\Services.Abstractions\\Services.Abstractions.csproj": {
-                "projectPath": "E:\\Datavanced\\Datavances.Assessment.Solution\\Services.Abstractions\\Services.Abstractions.csproj"
+              "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\Services.Abstractions.csproj": {
+                "projectPath": "D:\\Project\\ContactManagementBackend\\Services.Abstractions\\Services.Abstractions.csproj"
               }
             }
           }
@@ -432,6 +497,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -459,7 +529,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
