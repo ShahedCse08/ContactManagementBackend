@@ -19,7 +19,7 @@ jobs:
         dotnet-version: '6.0.x' # or your target version
 
     - name: Publish to IIS folder
-      run: dotnet publish ./YourApiProject/YourApiProject.csproj -c Release -o "D:\Site1_Contact"
+      run: dotnet publish ./Datavances.Assessment/Datavances.Assessment.csproj -c Release -o "D:\Site1_Contact"
 
     - name: Restart IIS (optional)
       run: iisreset
