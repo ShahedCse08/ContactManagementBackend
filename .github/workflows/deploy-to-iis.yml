@@ -1,0 +1,25 @@
+name: Deploy to IIS Locally
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: self-hosted  # This targets your PC
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '6.0.x' # or your target version
+
+    - name: Publish to IIS folder
+      run: dotnet publish ./YourApiProject/YourApiProject.csproj -c Release -o "D:\Site1_Contact"
+
+    - name: Restart IIS (optional)
+      run: iisreset
