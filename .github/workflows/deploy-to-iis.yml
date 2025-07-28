@@ -13,10 +13,11 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: '6.0.x' # or your target version
+    # ❌ REMOVE setup-dotnet step
+    # - name: Setup .NET
+    #   uses: actions/setup-dotnet@v4
+    #   with:
+    #     dotnet-version: '6.0.x'
 
     - name: Publish to IIS folder
       run: dotnet publish ./Datavances.Assessment/Datavances.Assessment.csproj -c Release -o "D:\Site1_Contact"
